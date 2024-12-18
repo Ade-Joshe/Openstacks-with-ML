@@ -1,0 +1,1 @@
+timestamp,log_level,source,request_id,user_id,project_id,internal_ip,request,status_code,response_length,response_time,time_delta,is_error,response_time_normalized,is_anomalous,is_internal
